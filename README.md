@@ -1,4 +1,4 @@
-# movielens-capstone
+# Movielens Recommender System Capstone Project
 This repository contains the three required submission files for the PH125.9x capstone unit, namely:
 
 "McRae Movielens 2022.Rmd" - a report in the form of an Rmd file, 
